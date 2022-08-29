@@ -8,10 +8,10 @@ A reliable way to convert the traditional XYZ Rotations into Quaternion XYZW Rot
 
 On the site, set Input to Degrees and Output to Radians and type in your desired rotations into Euler angles of multiple axis rotations ( degrees ).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
 
 Subsequently, your output will be printed out in Quaternion \[ x,y,z,w ].
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The Quaternion conversion of ( 35, 90, 0 )</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>The Quaternion conversion of ( 35, 90, 0 )</p></figcaption></figure>
 
 Remember, Persona 5 occasionally shifts from Y-Up to Z-Up so it's best to test rotations converted ingame before proceeding.&#x20;
