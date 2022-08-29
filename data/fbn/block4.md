@@ -4,7 +4,7 @@ description: FBN Block 4
 
 # Adjusting Spawn Points
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Viewable in 010 Editor using the .FBN Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Viewable in 010 Editor using the .FBN Binary Template</p></figcaption></figure>
 
 This is an **FBN** with 3 Entrances. Each Entry in Block 4 is one Spawn Point/Entrance. When opening an **FBN**, you will likely see many Blocks. In the **Value** column of the 010 Template Output will be the Block Type and therefore you need to open Block 4.\
 \

@@ -16,7 +16,7 @@ When a Palace field is loading, the game uses math to calculate which DngPack en
 Palaces by themselves are not hardcoded to stay under one Major ID. Kamoshida's Castle, for example, takes up 2. However, many other mechanics relating to Palaces are hardcoded and therefore not easy to work with.
 {% endhint %}
 
-When opening the **FTD** in the Template, you may notice there is several Lists with Entries under each. The game uses the Lists as a way to organize Major IDs and Entries for Minor IDs. \
+When opening the **FTD** in the Template, you may notice there are several Lists with Entries under each. The game uses the Lists as a way to organize Major IDs and Entries for Minor IDs. \
 \
 The game subtracts 150 from the target field's Major ID and that is used as the List #, while the Minor ID is used as the Entry # under the calculated List.
 

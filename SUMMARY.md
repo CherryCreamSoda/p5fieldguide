@@ -7,6 +7,7 @@
 * [Editing Field Resident Tables](data/fldresident/README.md)
   * [Adjusting Joker's Speed](data/fldresident/fldPlayerSpeed.md)
   * [Editing Palace Loot & Enemies](data/fldresident/fldDngPack.md)
+  * [Reworking Music Conditions](data/fldresident/fldBGMCnd.md)
   * [Assigning Palace Encounters](data/fldresident/datEncountPack.md)
 * [Editing Field Binary Files](data/fbn/README.md)
   * [Adjusting Spawn Points](data/fbn/block4.md)
