@@ -7,7 +7,7 @@ coverY: 0
 
 # 🛠 Persona 5 Field Creation
 
-<figure><img src=".gitbook/assets/HelpfulIntroduction.png" alt="Screenshot of a Twitter Post by &#x22;sand cat&#x22;. The post says &#x22;bestie with all due respect, please get fucked&#x22;."><figcaption><p><em>I don't know who this is, I just thought it'd be really funny to put this on the top of an otherwise completely serious Wiki</em></p></figcaption></figure>
+<figure><img src=".gitbook/assets/jessnode.png" alt="Screenshot of a Twitter Post by &#x22;sand cat&#x22;. The post says &#x22;bestie with all due respect, please get fucked&#x22;."><figcaption><p><em>I don't know who this is, I just thought it'd be really funny to put this on the top of an otherwise completely serious Wiki</em></p></figcaption></figure>
 
 ### Greetings Trickster!
 
