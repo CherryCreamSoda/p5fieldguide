@@ -6,7 +6,7 @@ description: >-
 
 # Generating String Tables
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Viewable in 010 Editor using the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Viewable in 010 Editor using the .FTD Binary Template</p></figcaption></figure>
 
 This is a standard set of Entries in a String Table **FTD**. In the Header of every **FTD** is a value that tells the game whether to parse the **FTD** as values or text. \
 Note that Persona 5 Strings are both Length-Specific _and_ Null Terminated. This means that while the Strings have a dedicated **Length** value, the game also stops reading when it reaches a Null character.&#x20;

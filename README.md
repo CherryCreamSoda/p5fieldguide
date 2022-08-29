@@ -1,7 +1,5 @@
 ---
-description: >-
-  The only repository currently available for Persona 5 Field Modding
-  Documentation
+description: The only repository currently available for Persona 5 Field Documentation
 coverY: 0
 ---
 

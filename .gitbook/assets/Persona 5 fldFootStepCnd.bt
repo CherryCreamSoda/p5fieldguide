@@ -1,0 +1,62 @@
+//------------------------------------------------------------------------------
+//--- 010 Editor v9.0.2 Binary Template
+// File Mask: fldFootStepCnd.ftd
+//------------------------------------------------------------------------------
+
+
+BigEndian();
+typedef ubyte u8;
+
+enum<uint16>FootstepSound
+{
+    Wood = 1,
+	Stone = 2,
+	Grass = 3,
+	Soil = 4,
+	Carpet = 5,
+	Metal = 6,
+	Bare = 7,
+	Crawl = 8,
+	Sand = 9,
+	Wet = 10,
+	Creak = 11,
+	Wood_And_Creak = 12,
+	Silence = 13,
+	Thin_Metal = 14
+};
+
+typedef struct
+{
+		uint32 pointer<name="Pointer to Block">;
+} Pointer_To_Block<name="Pointer to Entry", optimize=false>;
+
+typedef struct
+{
+		uint16 Field_Major_ID;
+		uint16 Field_Minor_ID;
+		FootstepSound Sound<name="Footstep Sound">;
+		uint16 Unknown8;
+} Entry<name="Entry", optimize=false>;
+
+typedef struct
+{
+		uint32 Unknown1;
+		uint32 Sub_Entry_Section_Size;
+		uint32 EntryNum<name="Num of Sub-Entries">;
+		uint32 Unknown4;
+		Entry entry[EntryNum];
+} EntryHeader<name="Field Set", optimize=false>;
+
+struct FTDFile
+{
+	uint32 unk_0x0<name="Unknown (0x0)">;
+	char magic[4]<name="FTD0">;
+	uint32 fileSize<name="File Size">;
+	uint32 Unknown4<name="Num of Entries">;
+	Pointer_To_Block PointerBlock[Unknown4];
+	if (Unknown4 != 12)
+	{
+		uint32 padding[4 - (Unknown4 % 4)];
+	}
+	EntryHeader entry[Unknown4];
+}ftdfile<name="Field Footstep Condition FTD">;

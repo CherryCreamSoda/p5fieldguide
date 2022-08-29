@@ -8,6 +8,7 @@
   * [Adjusting Joker's Speed](data/fldresident/fldPlayerSpeed.md)
   * [Editing Palace Loot & Enemies](data/fldresident/fldDngPack.md)
   * [Generating String Tables](data/fldresident/string.md)
+  * [Fixing Footstep Sounds](data/fldresident/fldFootStepCnd.md)
   * [Reworking Music Conditions](data/fldresident/fldBGMCnd.md)
   * [Assigning Palace Encounters](data/fldresident/datEncountPack.md)
 * [Editing Field Binary Files](data/fbn/README.md)
