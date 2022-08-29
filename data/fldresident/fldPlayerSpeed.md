@@ -4,7 +4,7 @@ description: field/fldResident.pac/ftd/fldPlayerSpeed.ftd
 
 # Adjusting Joker's Speed
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
 
 This is the _entirety_ of **fldPlayerSpeed** in Persona 5. It's quite a small file because while fully functional, ATLUS did not find many uses for it. So few, in fact, it actually makes this slightly more annoying to edit because of how they designed it.\
 \

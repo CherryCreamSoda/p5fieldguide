@@ -7,7 +7,7 @@ coverY: 0
 
 
 
-![Poor Sand Cat](.gitbook/assets/HelpfulIntroduction.png)
+![Sand Cat](.gitbook/assets/HelpfulIntroduction.png)
 
 ### Hello!
 
