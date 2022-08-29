@@ -29,7 +29,9 @@ It's currently unknown what **Field00** does. Ingame, walk to a location you dee
 Quaternion Rotation is different from Euler Degrees. If you don't know how to convert Euler Degrees into Quaternion Rotation, [THIS ](../../basics/rotation-conversions.md#euler-degrees-to-quaternion)is how.
 {% endhint %}
 
-The **Model\_MajorID** and **MinorID** refer to the model used by that specific Chest, which is loaded from **model/field\_tex/object** based on the values in the struct. ![](../../.gitbook/assets/Screenshot\_5.png)
+The **Model\_MajorID** and **MinorID** refer to the model used by that specific Chest, which is loaded from **model/field\_tex/object** based on the values in the struct.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot_6.png" alt=""><figcaption><p>model/field_<em>tex/object/m300</em>_001.GMD</p></figcaption></figure>
 
 This is an example Chest model from the object folder. It is ID **300\_001** and is believed to be unused, as it is replaced by a Will Seed in Persona 5 Royal.&#x20;
 
