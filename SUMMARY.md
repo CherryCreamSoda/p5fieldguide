@@ -1,6 +1,6 @@
 # Table of contents
 
-* [❤ Welcome to Hell](README.md)
+* [🛠 Persona 5 Field Repository](README.md)
 
 ## Field Data Editing <a href="#data" id="data"></a>
 
