@@ -40,3 +40,7 @@ Will Seeds in Persona 5 Royal are actually just Treasure Chests with a different
 {% endhint %}
 
 **Chest Resource Handle** is a value only used in field box scripts, It is a unique "Tag" assigned to most object models and entities that allows the game to easily search for the model to run commands on it. Internally you will find it being called Resource Handle and RESHND interchangeably. For Treasure Chests in Palace fields, a standard RESHND is 64000+. &#x20;
+
+{% hint style="success" %}
+Remember to place any custom model IDs in the _right folder_ before assembling your CPK. The Persona 5 codebase **softlocks** when a file loading cannot be found normally. If your field is not loading after changing the Model ID, check **RPCS3's TTY Log** to see what model is stuck.&#x20;
+{% endhint %}
