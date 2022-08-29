@@ -16,22 +16,22 @@ Some Interactables are invisible and do not have an assigned Prompt Table. Perpl
 
 For convenience, here is every known Prompt Table value. &#x20;
 
-| ID # |         | Prompt Table                                  |
-| ---- | ------- | --------------------------------------------- |
-| 0    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 1    | Go      | ( Blank )                                     |
-| 2    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 3    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 4    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 5    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 6    | Steal   | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 7    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   |
-| 8    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   |
-| 9    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   |
-| 10   | Talk    | field/fldResident.pac/ftd/fldNPCName.ftd      |
-| 11   | Go      | field/fldResident.pac/ftd/fldPlaceName.ftd    |
-| 12   | Shop    | field/fldResident.pac/ftd/fldCheckName.ftd    |
-| 13   | Examine | field/fldResident.pac/ftd/fldKFECheckName.ftd |
+| ID # |         | Prompt Table                                  | Icon                                                                  |
+| ---- | ------- | --------------------------------------------- | --------------------------------------------------------------------- |
+| 0    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
+| 1    | Go      | ( Blank )                                     | <img src="../.gitbook/assets/Go.png" alt="" data-size="line">         |
+| 2    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
+| 3    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
+| 4    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
+| 5    | Examine | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
+| 6    | Steal   | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Steal.png" alt="" data-size="line">      |
+| 7    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   | <img src="../.gitbook/assets/Action.png" alt="" data-size="line">     |
+| 8    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   | <img src="../.gitbook/assets/Action (1).png" alt="" data-size="line"> |
+| 9    | Action  | field/fldResident.pac/ftd/fldActionName.ftd   | <img src="../.gitbook/assets/Action (2).png" alt="" data-size="line"> |
+| 10   | Talk    | field/fldResident.pac/ftd/fldNPCName.ftd      | <img src="../.gitbook/assets/Talk.png" alt="" data-size="line">       |
+| 11   | Go      | field/fldResident.pac/ftd/fldPlaceName.ftd    | <img src="../.gitbook/assets/Go.png" alt="" data-size="line">         |
+| 12   | Shop    | field/fldResident.pac/ftd/fldCheckName.ftd    | <img src="../.gitbook/assets/Shop.png" alt="" data-size="line">       |
+| 13   | Examine | field/fldResident.pac/ftd/fldKFECheckName.ftd | <img src="../.gitbook/assets/Examine.png" alt="" data-size="line">    |
 
 {% hint style="warning" %}
 In a Palace Field, any Interactable referencing a **fldCheckName.ftd** Prompt Table becomes **fldDngCheckName.ftd,** adjust accordingly.
