@@ -4,7 +4,7 @@ description: field/fldResident.pac/ftd/datEncountPack.ftd
 
 # Assigning Palace Encounters
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
 
 This is a standard Entry found in the **Encounter Pack Data**. It contains the data used for rotating CHANCE ( Ambush ) Encounters as well as many variants used for PINCH and Encounters with Strong Shadows. \
 [fldDngPack.ftd](fldDngPack.md) picks out one Entry from this table to apply to any particular Palace field.\
