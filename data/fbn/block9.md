@@ -9,7 +9,7 @@ description: FBN Block 9
 This is an **FBN** with 2 Treasure Chests in it ( internally known as **TBox** ). The structure is rather small and that is because, perplexingly, ATLUS chose not to include data such as what the Chest _contains_ or what script procedure to run in the **FBN** itself, instead choosing to spread this data around into several other tables. \
 If you wish to simply move existing Chests around or change their assigned model, you only need to edit the **FBN**. However, adding new Chests or adding/editing Chest contents requires significantly more editing which will be covered under **Editing Field Resident Tables > Creating Treasure Chests**. \
 \
-When opening an **FBN**, you will likely see many Blocks. In the **Value** column of the 010 Template Output will be the Block Type and therefore you need to open Block 9. Remember that placing a Chest block in an Overworld field will crash the game!\
+The contents of an **FBN** are multiple Blocks. In the **Value** column of the 010 Template Output will be the Block Type and therefore you need to open Block 9. Placing a Chest block in an Overworld field will crash the game.\
 \
 Each Entry looks like this:
 

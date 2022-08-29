@@ -12,6 +12,7 @@
 * [Editing Field Binary Files](data/fbn/README.md)
   * [Adjusting Spawn Points](data/fbn/block4.md)
   * [Placing Treasure Chests](data/fbn/block9.md)
+* [Editing Interactables](data/hit.md)
 
 ## Editing Field Visuals <a href="#visuals" id="visuals"></a>
 
