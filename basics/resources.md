@@ -5,7 +5,7 @@ description: Got some rare items for ya...
 # Resources
 
 {% hint style="danger" %}
-We do not condone Piracy, however, acknowledge that a large portion of the Persona 5 Modding scene is made far easier with piracy as opposed to strictly legal dumps and purchases. \
+This repo does not condone Piracy, however, acknowledges that a large portion of the Persona 5 Modding scene is made far easier with piracy as opposed to strictly legal dumps and purchases. \
 \
 Note that in the case of downloading Persona 5 PKGs, use NPS as it is far more reliable and stable than the popular SonOfPosideon version.\
 \

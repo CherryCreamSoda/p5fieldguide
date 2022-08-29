@@ -20,7 +20,6 @@ short RunSpeed;
 u8 AccelFrames;
 u8 DecelFrames;
 u8 StaticTurnFrames;
-u8 Padding;
 ```
 
 This is exactly as it appears. The **Field Major ID** and **Minor ID** tell the game what field to target with the subsequent values. \

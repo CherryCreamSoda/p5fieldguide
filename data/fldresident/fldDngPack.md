@@ -4,7 +4,7 @@ description: field/fldResident.pac/ftd/fldDngPack.ftd
 
 # Editing Palace Loot & Enemies
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
 
 This is the **Dungeon Pack** table for Madarame's Museum. Every 16 bytes is one DngPack Entry and represents one Palace field. DngPack is responsible for assigning what **Shadows** are available to a field as well as what is inside of **Chests** and **Search Objects**. \
 Due to the conditions in which this table is triggered, it is **impossible** to transplant any of this data to apply on a Overworld field.\
@@ -39,3 +39,5 @@ u16 TboxRndEntry;
 ```
 
 These are all **value pointers** to various Entries in _other_ FTD files within the Field Resident which will subsequently be applied to the target Palace field. Their intended functions can be found in the [Editing Field Resident Tables main page](./) as well as an info article for each.&#x20;
+
+To add a new field to a List, Copy and Paste an Entry and change the **Entry Count** on top. Make sure to add the Entry size to the **Data Size** value _( 16 bytes )._
