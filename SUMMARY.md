@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐱 Persona 5 Field Creation](README.md)
+* [🔧 Persona 5 Field Creation](README.md)
 
 ## Field Data Editing <a href="#data" id="data"></a>
 
