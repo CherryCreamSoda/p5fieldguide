@@ -14,7 +14,7 @@ For basic Interactables, there are 14 different "Prompt Tables" values which con
 Some Interactables are invisible and do not have an assigned Prompt Table. Perplexingly, the only 2 modes of Interactables are 0 for invisible and 2 for Prompt.&#x20;
 {% endhint %}
 
-For convenience, here is every known Prompt Table value. &#x20;
+For convenience, this is every known Prompt Table value. &#x20;
 
 | ID # |         | Prompt Table                                  | Icon                                                                  |
 | ---- | ------- | --------------------------------------------- | --------------------------------------------------------------------- |
@@ -36,3 +36,5 @@ For convenience, here is every known Prompt Table value. &#x20;
 {% hint style="warning" %}
 In a Palace Field, any Interactable referencing a **fldCheckName.ftd** Prompt Table becomes **fldDngCheckName.ftd,** adjust accordingly.
 {% endhint %}
+
+These are all **String Tables,** a specific type of FTD file which contains text rather than values. Editing information for String Tables can be found under [**Editing Field Resident Tables > Generating String Tables**](fldresident/string.md).&#x20;

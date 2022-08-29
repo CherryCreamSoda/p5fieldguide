@@ -4,7 +4,7 @@ description: field/fldResident.pac/ftd/fldBGMCnd.ftd
 
 # Reworking Music Conditions
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Viewable in 010 Editor using the BGMCND Fork of the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Viewable in 010 Editor using the BGMCND Fork of the .FTD Binary Template</p></figcaption></figure>
 
 This is the Entry in the **Background Music Conditions** that plays _"Beneath The Mask - Rain"_ from May onward during Rainy days. Each Entry in this file contains similar conditions that control **when and where** a music track should play. \
 This is not _exclusively_ how music is triggered, as cutscenes and various scripts do have their own overrides, but this file is what registers the default looping music for the field at the given time and story progress. \

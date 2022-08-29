@@ -13,6 +13,7 @@ In the case of 010 Editor, it is available for a free trial and 983 Year Registr
 {% endhint %}
 
 [https://github.com/zarroboogs/p5-ct](https://github.com/zarroboogs/p5-ct) - Persona 5 Cheat Engine Table\
+[https://github.com/DeathChaos25/P5FTDStringConverter](https://github.com/DeathChaos25/P5FTDStringConverter) - Persona 5 String Table Editor\
 [https://www.sweetscape.com/010editor](https://www.sweetscape.com/010editor/) - Professional Hex Editor \
 [https://github.com/tge-was-taken/010-Editor-Templates](https://github.com/tge-was-taken/010-Editor-Templates) - Persona Binary Templates for 010
 
@@ -21,9 +22,13 @@ Environment Editor Cheat Engine Table for RPCS3
 {% endfile %}
 
 {% file src="../.gitbook/assets/Persona_5_FBN.bt" %}
-My fork of the FBN Binary Template, until pushed to the main repo
+My fork of the .FBN Binary Template, until pushed to the main repo
 {% endfile %}
 
 {% file src="../.gitbook/assets/Material_Dumps.zip" %}
 Material Info Dumps for Persona 5 and Persona 5 Royal
+{% endfile %}
+
+{% file src="../.gitbook/assets/Persona 5 bgmCnd.bt" %}
+BGMCND Fork of the .FTD Template
 {% endfile %}

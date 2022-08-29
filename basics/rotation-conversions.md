@@ -14,17 +14,17 @@ A reliable way to convert the traditional XYZ Rotations into Quaternion XYZW Rot
 
 On the site, set Input to Degrees and Output to Radians and type in your desired rotations into Euler angles of multiple axis rotations ( degrees ).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
 
 Subsequently, your output will be printed out in Quaternion \[ x,y,z,w ].
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>The Quaternion conversion of ( 35, 90, 0 )</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>The Quaternion conversion of ( 35, 90, 0 )</p></figcaption></figure>
 
 ## Euler Degrees to FBN Standard Rotation
 
 Using the site mentioned above, set Input to Euler angles of multiple axis rotations ( degrees ).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Make sure the dropdown is XYZ and nothing else</p></figcaption></figure>
 
 On the right side of the screen will be the Rotation Matrix. Grab the rightmost column of values and treat this as XYZ.
 
