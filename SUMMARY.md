@@ -8,10 +8,11 @@
   * [Adjusting Joker's Speed](data/fldresident/fldPlayerSpeed.md)
 * [Editing Field Binary Files](data/fbn/README.md)
   * [Adjusting Spawn Points](data/fbn/block4.md)
+  * [Placing Treasure Chests](data/fbn/block9.md)
 
 ## Editing Field Visuals <a href="#visuals" id="visuals"></a>
 
-* [Page 2](visuals/page-2.md)
+* [Under Construction!](visuals/env.md)
 
 ## Essential Basics <a href="#basics" id="basics"></a>
 
