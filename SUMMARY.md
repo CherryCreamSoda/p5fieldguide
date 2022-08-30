@@ -11,6 +11,7 @@
   * [Reworking Music Conditions](data/fldresident/fldBGMCnd.md)
   * [Editing Palace Loot & Enemies](data/fldresident/fldDngPack.md)
   * [Fixing Footstep Sounds](data/fldresident/fldFootStepCnd.md)
+  * [Creating Treasure Chests](data/fldresident/fldObjFlag.md)
   * [Adjusting Joker's Speed](data/fldresident/fldPlayerSpeed.md)
 * [Editing Field Binary Files](data/fbn/README.md)
   * [Adjusting Spawn Points](data/fbn/block4.md)
