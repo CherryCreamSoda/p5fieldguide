@@ -8,6 +8,8 @@
   * [Editing Field Subtitles](data/fldresident/fldPlaceNo.md)
   * [Generating String Tables](data/fldresident/string.md)
   * [Assigning Palace Encounters](data/fldresident/datEncountPack.md)
+  * [Adjusting Palace Items](data/fldresident/datTBox.md)
+  * [Creating Search Objects](data/fldresident/datTBoxRnd.md)
   * [Reworking Music Conditions](data/fldresident/fldBGMCnd.md)
   * [Editing Palace Loot & Enemies](data/fldresident/fldDngPack.md)
   * [Fixing Footstep Sounds](data/fldresident/fldFootStepCnd.md)

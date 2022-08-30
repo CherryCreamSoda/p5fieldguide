@@ -4,7 +4,7 @@ description: field/fldResident.pac/ftd/fldPlayerSpeed.ftd
 
 # Adjusting Joker's Speed
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Viewable in 010 Editor using my fork of the .FTD Binary Template</p></figcaption></figure>
 
 This is the _entirety_ of **fldPlayerSpeed** in Persona 5. It's quite a small file because while fully functional, ATLUS did not find many uses for it. So few, in fact, it actually makes this slightly more annoying to edit because of how they designed it.\
 \
@@ -23,6 +23,7 @@ u8 StaticTurnFrames;
 ```
 
 This is exactly as it appears. The **Field Major ID** and **Minor ID** tell the game what field to target with the subsequent values. \
+\
 **Walk Speed** is used when the Analog Stick is hardly tilted and **Run Speed** is for full directional tilt. **Accel and Decel Frames** are the time in frames required for Joker to reach full speed when the Stick is tilted from Idle and full stop when the Stick stops moving. **Static Turn Frames** is an overworld value for how long it takes Joker's rotation to face an opposite direction if the stick is flipped in direction.
 
 {% hint style="warning" %}

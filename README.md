@@ -31,12 +31,12 @@ This repo was made for the benefit of the community and couldn't be achieved wit
 Thank you to all who have contributed in the last year and my personal love and respect to you all.\
 \
 \
-[ShrineFox ](https://twitter.com/ShrineFoxMods)- Mental Health Oomfie for the past 3/4 years and Resident Weed Smoker\
+[<mark style="color:green;">ShrineFox</mark> ](https://twitter.com/ShrineFoxMods)- Mental Health Oomfie for the past 3/4 years and Resident Weed Smoker\
 Jess - Enby with a cool froge\
-[SecreC ](https://twitter.com/PKfire26)- Roadmap Reversing, Shop Editing and CorpTBL Datamining\
-[KuroOkamii ](https://twitter.com/KuroOkamii7)- Hit Table Preliminary Research and Material Analysis\
-[DniweTamp ](https://twitter.com/dniwetamp)- Material Preset and Texture Quality Expert\
+[<mark style="color:purple;">SecreC</mark> ](https://twitter.com/PKfire26)- Roadmap Reversing, Shop Editing and CorpTBL Datamining\
+[<mark style="color:red;">KuroOkamii</mark> ](https://twitter.com/KuroOkamii7)- Hit Table Preliminary Research and Material Analysis\
+[<mark style="color:blue;">DniweTamp</mark> ](https://twitter.com/dniwetamp)- Material Preset and Texture Quality Expert\
 Lipsum - TBox Reverse Engineering and p5-ct Creator\
-[TGEnigma ](https://github.com/tge-was-taken)- Professional Software Engineer and "Dutch Man"\
-[DeathChaos](https://twitter.com/DeathChaos25) - King of Ghidra and Affectionate Pain In The Ass\
-Sierra - Env Template Creator and General Advice Base
+[<mark style="color:orange;">TGEnigma</mark> ](https://github.com/tge-was-taken)- Professional Software Engineer and "Dutch Man"\
+[<mark style="color:yellow;">DeathChaos</mark>](https://twitter.com/DeathChaos25) - King of Ghidra and Affectionate Pain In The Ass\
+<mark style="color:purple;">Sierra</mark> - Env Template Creator and General Advice Base

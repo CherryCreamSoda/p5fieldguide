@@ -39,7 +39,7 @@ u16 TboxRndEntry;
 ```
 
 These are all **value pointers** to various Entries in _other_ FTD files within the Field Resident which will subsequently be applied to the target Palace field. \
-( [datEncountPack.ftd](datEncountPack.md), fldObjFlag.ftd, datTBoxRnd.ftd )\
-A short blurb on their intended functions can be found in the [Editing Field Resident Tables main page](./).
+( **** [**datEncountPack.ftd**](datEncountPack.md), **** [**fldObjFlag.ftd**](fldObjFlag.md), [**datTBoxRnd.ftd**](datTBoxRnd.md) )\
+A short blurb on their intended functions can be found under [**Editing Field Resident Tables**](./).
 
 To add a new field to a List, Copy and Paste an Entry and change the **Entry Count** on top. Make sure to add the Entry size to the **Data Size** value _( 16 bytes )._
